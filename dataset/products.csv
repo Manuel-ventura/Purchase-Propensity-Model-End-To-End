@@ -1,0 +1,14 @@
+product_id,product_name,family_product
+4657,em_acount,account
+3819,debit_card,payment_card
+1364,pension_plan,pension_plan
+2234,payroll,account
+2235,payroll_account,account
+8871,emc_account,account
+2312,credit_card,payment_card
+2335,short_term_deposit,investment
+2336,long_term_deposit,investment
+2673,securities,investment
+1119,funds,investment
+9001,loans,loan
+4033,mortgage,loan
